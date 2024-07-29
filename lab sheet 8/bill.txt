@@ -1,0 +1,3 @@
+ABCD SUPER MARKET
+Sno Particulars         Quantity  Price Sub total 
+1   rice                10        12    120       
